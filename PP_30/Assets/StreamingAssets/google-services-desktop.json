@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073408067778",
+    "project_id": "pp-30-b00ec",
+    "storage_bucket": "pp-30-b00ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073408067778:android:ec63fb7b3c0c7e09b2935b",
+        "android_client_info": {
+          "package_name": "com.plinko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWwkbCfFLNLtrk_P9TPAwQGnrkpGiFk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
